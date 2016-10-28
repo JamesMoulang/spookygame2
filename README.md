@@ -1,5 +1,8 @@
 # spookygame
 
+By James Moulang and Sol Lewis.
+Fraggle Lewis as the Monster and the Man.
+
 to run:
 
 git clone https://github.com/JamesMoulang/spookygame2/
